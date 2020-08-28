@@ -10,12 +10,4 @@
         android:layout_height="match_parent"
         app:camera_id="any"
         app:show_fps="true" />
-
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/switchCameraBtn"
-        android:layout_gravity="right"
-        android:layout_margin="8dp"
-        android:src="@drawable/rotate" />
 </FrameLayout>
